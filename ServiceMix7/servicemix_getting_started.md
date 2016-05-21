@@ -41,4 +41,4 @@ We now will install hawtio console. First we need to add the hawt repository to 
 
 
 
-[printscreen]: servicemix_camel.png "servicemix console"
+[printscreen]: img/servicemix_camel.png "servicemix console"
