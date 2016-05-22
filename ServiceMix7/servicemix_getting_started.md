@@ -36,6 +36,34 @@ We can uninstall the webconsole using the `feature:uninstall webconsole` command
 We now will install hawtio console. First we need to add the hawt repository to service mix. We do that by typing the `feature:repo-add hawtio 1.4.65` command. Then we can install it using the `feature:install hawtio` command. The hawtio web console.
 
 
+## Creating a simple bundle
+This bundle is quite simple. It contains a route that download a webpage and write it inside a folder. This project is build with maven in NetBeans IDE and it produces a .jar file that is then deployed to ServiceMix.
+
+### The project structure
+```
+* ServiceMixExample1 OSGi Bundle
+    * src
+        * main
+            * java
+                * com.romanostrechlis.servicemix.example1
+                    * StockProcessor.java
+            * resources
+                * OSGI-INF
+                    * blueprint
+                        * blueprint.xml
+    * nbactions.xml
+    * pom.xml
+```
+
+### The project
+The pom contains the dependencies and the build rules to create the .jar file. The `StockProcessor.java` is a processor that for now does nothing. And then there is the `blueprint.xml` which contains the processor creation as a spring bean the camel context and the route in spring DSL. We can explore all these files in `examples\ServiceMixExample1` folder.
+
+### Running the project
+First we need to install camel-http feature in servicemix in order to get the webpage. We do that by executing the `feature:install camel-http` command. This dependency is part of the servicemix. If it wasn't, we would heve to deploy the .jar dependency.
+Then we are ready to clean and build our example and deploy the produced .jar file in the deploy folder of servicemix. Running the `bundle:list | grep Example` command we can see the status of our deployment. If by chance the status is "GracePeriod" then execute the `bundle:diag` command to see what is wrong.
+If everything is ok then a text file must be created inside the c:\camel\out folder containg the webpage.
+
+
 
 ### *more is comming*
 

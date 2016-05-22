@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blueprint xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="
+            http://www.osgi.org/xmlns/blueprint/v1.0.0 http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd
+           ">
+ 
+    <bean id="stockProcessor" class="com.romanostrechlis.servicemix.example1.StockProcessor" />
+    
+    <camelContext xmlns="http://camel.apache.org/schema/blueprint">
+        <route>
+            <from uri="timer:fetch?period=60s&amp;delay=5s" />
+            <to uri="direct:trigger" />
+        </route>
+    
+        <route>
+            <from uri="direct:trigger" />
+            <setHeader headerName="CamelHttpMethod">
+                <constant>GET</constant>
+            </setHeader>
+            <to uri="http://finance.in.gr/Stock.aspx?id=130" />
+            <process ref="stockProcessor" />
+            <to uri="log:com.romanostrechlis.servicemix.example1?level=DEBUG" />
+            <to uri="file:c:/camel/out?fileName=test.txt" />
+        </route>
+    </camelContext>
+ 
+</blueprint>
