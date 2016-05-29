@@ -64,8 +64,30 @@ Then we are ready to clean and build our example and deploy the produced .jar fi
 If everything is ok then a text file must be created inside the c:\camel\out folder containg the webpage.
 
 
+## Getting Twitter Messages to an ActiveMQ queue
+For this route we will connect to twitter API an get some tweets. First we need to install the corresponding camel dependency by executing the command `feature:install camel-twitter`. Then we create the blueprint in spring DSL.
+```xml
+<blueprint
+    xmlns="http://www.osgi.org/xmlns/blueprint/v1.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+      http://www.osgi.org/xmlns/blueprint/v1.0.0
+      http://www.osgi.org/xmlns/blueprint/v1.0.0/blueprint.xsd">
+ 
+    <camelContext xmlns="http://camel.apache.org/schema/blueprint">
+        <route id="get_tweets">
+            <from uri="twitter://timeline/home?type=polling&amp;delay=900000&amp;consumerKey=wCnHEKlfq8YiuGBjzf80xA&amp;consumerSecret=o6rRgwONyNb4sEllZkdBTkEh0dgG0hgaVh075pmFk&amp;accessToken=1401832238-UaMm7GA65qmXzninrVXOSwdT06NEodTuOpWzJpU&amp;accessTokenSecret=efPYo8ddeN07N0Ao20gkDziuII1HkHf0GzqA2hWOY" />
+            <convertBodyTo type="java.lang.String"/>
+            <to uri="activemq:queue:twitter" />
+        </route>
+    </camelContext>
+</blueprint>
+``` 
+This blueprint sends tweets to an ActiveMQ queue called twitter which is automatically created if it doesn't exists.
+The convertBodyTo element is required for getting the body's format recognized.
 
-### *more is comming*
+
+
 
 
 
