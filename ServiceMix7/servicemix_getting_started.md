@@ -76,7 +76,7 @@ For this route we will connect to twitter API an get some tweets. First we need 
  
     <camelContext xmlns="http://camel.apache.org/schema/blueprint">
         <route id="get_tweets">
-            <from uri="twitter://timeline/home?type=polling&amp;delay=900000&amp;consumerKey=wCnHEKlfq8YiuGBjzf80xA&amp;consumerSecret=o6rRgwONyNb4sEllZkdBTkEh0dgG0hgaVh075pmFk&amp;accessToken=1401832238-UaMm7GA65qmXzninrVXOSwdT06NEodTuOpWzJpU&amp;accessTokenSecret=efPYo8ddeN07N0Ao20gkDziuII1HkHf0GzqA2hWOY" />
+            <from uri="twitter://timeline/home?type=polling&amp;delay=900000&amp;consumerKey=KEY&amp;consumerSecret=KEY&amp;accessToken=KEY&amp;accessTokenSecret=KEY" />
             <convertBodyTo type="java.lang.String"/>
             <to uri="activemq:queue:twitter" />
         </route>
