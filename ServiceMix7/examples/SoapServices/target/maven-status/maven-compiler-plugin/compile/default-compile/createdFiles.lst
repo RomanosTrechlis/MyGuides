@@ -1,0 +1,10 @@
+com\romanostrechlis\incidentreport\service\types\GetPerson.class
+com\romanostrechlis\incidentreport\service\PingImpl.class
+com\romanostrechlis\incidentreport\service\UnknownPersonFault.class
+com\romanostrechlis\incidentreport\service\types\UnknownPersonFault.class
+com\romanostrechlis\incidentreport\service\client\Client.class
+com\romanostrechlis\incidentreport\service\types\GetPersonResponse.class
+com\romanostrechlis\incidentreport\service\Person.class
+com\romanostrechlis\incidentreport\service\PersonImpl.class
+com\romanostrechlis\incidentreport\service\Ping.class
+com\romanostrechlis\incidentreport\service\types\ObjectFactory.class
