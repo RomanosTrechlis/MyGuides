@@ -14,7 +14,7 @@ Si de qualquiera de estas dos Rectitudes buelve la Espada al Centro, se llama mo
 
 Si retirare el braco, de fuerte(?) quellegue la punta de la Espada al numero 3 hara movimiento estrano. Y si la Espada desde el punto 3 buelve a su Centro (que es el Angulo Recto) el movimiento sera accidental, y quedra en la Rectitud de adelante.
 Si pusiere la Espada de fuerte(?) que este la guarnicion encima del ambro, ocupando la Linea(J) se hallara en la Rectitud de atras: y se advierte que el Punto (H) es el estremo de las Rectitudes altas: La (Y) el de las Rectitudes bajas: La (G) y la (F) los delos lados: La (J) el de atras: Y la (P) el de adelante, que es el Angulo Recto.
-![figure](https://github.com/RomanosTrechlis/MyNotes/blob/master/de_los_movimientos_rectitudes.png "")
+![figure](https://github.com/RomanosTrechlis/MyNotes/blob/master/Ettenhard/images/de_los_movimientos_rectitudes.png "De los movimientos Rectitudes")
 
 {p. 25}
 
