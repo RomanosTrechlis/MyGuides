@@ -7,3 +7,5 @@ Tres especies ay de Tajos, que son el Vertical, el Diagonal, y el Oricontal, ent
 La estocada no tiene mas que una especie, segun su formacion, y todas estas tretastoman los nombres, conforme en las partes que se executan; pero para poder difinir con massacilidad, y claridad {p. 33} cada una de estas especies, y tener el conocimiento de las lineas que en el cuerpo del hombre se deben considerar, conforme a Destreza, que son donde se executan las herida, sera preciso hacer una Figura deligneada, segun nuestro Maesto D. Luis Pacheco de Narbaez la propone, aunque no la demuestra, que nos declare con setisfacion el intentol q estando con esta advertecia, trataremos de dar particular noticia de los Movimientos de que se compone la Treta, quales son los que hieren, y quales los que disponen la herida.
 
 ![figure](https://github.com/RomanosTrechlis/MyNotes/blob/master/Ettenhard/images/deligneacion_considerada_en_el_Cverodl_hombre.png "Deligneacion Considerada En El Cverpodl Hombre")
+
+{p. 37}
