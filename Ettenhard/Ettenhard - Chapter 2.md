@@ -1,7 +1,10 @@
-## CAPTIVO II.
+## CAPITULO II.
 ### De la Difinicion del Movimiento y sus Especies. 
 
-Movimiento, es una accion precisa para reducer en Acto lo que esta en potencia, sin la qual ninguna cosa se podra mover de un lugar a otro. Es genero que comprehede todos los que puede aver(?): los simples son seis, y sus nombres, Violento, Natural, Remiso de Reduccion, Eltranio, Accidetal: el Violento, es el que sube: el Natural, el que baja: el Remiso, el que se aparta a qualquiera de los lados: el de Reducion, es el que de los lados buebue al Angulo Recto: el eltrano: es el que va a atras: u el Accidetal, el que va adelante. Assi mismo las Rectitudines Generales son seis, y sus lugares, arriva, abaxo, a un lado, y a otro, atras, y adelante: conque don cada movimiento {p 21} se va a su Rectitud. El modo de executarlo, se ve en la figuiente Domonstracion, por la figura (X) aduirtiendo, que el centro de las Rectitudes, y movimietos, es el Angulo Recto, que se considera donde senala la letra (A). Y assi, si sube la Espada a la Linea que muestra la linea (B) hace Movimiento Violento, y esta en rectitude Alta.
+Movimiento, es una accion precisa para reducir en Acto lo que esta en potencia, sin la qual ninguna cosa se podra mover de un lugar a otro. 
+Es genero que comprehede todos los que puede aver: los simples son seis, y sus nombres, Violento, Natural, Remiso de Reduccion, Estranio, Accidetal; el Violento, es el que sube; el Natural, el que baja; el Remiso, el que se aparta a qualquiera de los lados; el de Reducion, es el que de los lados buelue al Angulo Recto; el Estrano, es el que va a atras; y el Accidetal, el que va adelante. 
+Assi mismo las Rectitudines Generales son seis, y sus lugares, arriva, abaxo, a un lado, y a otro, atras, y adelante: conque don cada movimiento {p 21} se va a su Rectitud. 
+El modo de executarlo, se ve en la figuiente Demonstracion, por la figura (X) advirtiendo, que el centro de las Rectitudes, y movimietos, es el Angulo Recto, que se considera donde senala la letra (A). Y assi, si sube la Espada a la Linea que muestra la linea (B) hace Movimiento Violento, y esta en rectitud Alta.
 
 Si baja la Espada a la Linea (C) hace Movimiento Natural, y se halla en Rectitud Baja.
 
@@ -12,9 +15,11 @@ Lo mismo se entiende, si ocupa la Linea (E) porque hace el mismo movimiento y se
 Si de qualquiera de estas dos Rectitudes buelve la Espada al Centro, se llama movimiento de Reduccion.
 {p. 22}
 
-Si retirare el braco, de fuerte(?) quellegue la punta de la Espada al numero 3 hara movimiento estrano. Y si la Espada desde el punto 3 buelve a su Centro (que es el Angulo Recto) el movimiento sera accidental, y quedra en la Rectitud de adelante.
-Si pusiere la Espada de fuerte(?) que este la guarnicion encima del ambro, ocupando la Linea(J) se hallara en la Rectitud de atras: y se advierte que el Punto (H) es el estremo de las Rectitudes altas: La (Y) el de las Rectitudes bajas: La (G) y la (F) los delos lados: La (J) el de atras: Y la (P) el de adelante, que es el Angulo Recto.
-![figure](https://github.com/RomanosTrechlis/MyNotes/blob/master/Ettenhard/images/de_los_movimientos_rectitudes.png "De los movimientos Rectitudes")
+Si retirare el braco, de fuerte quellegue la punta de la Espada al numero 3. hara movimiento estrano. 
+Y si la Espada desde el punto 3. buelve a su Centro (que es el Angulo Recto) el movimiento sera accidetal, y quedara en la Rectitud de adelante.
+
+Si pusiere la Espada de fuerte(?) que este la guarnicion encima del ombro, ocupando la Linea(J)(?) se hallara en la Rectitud de atras: y se advierte, que el Punto (H) es el estremo de las Rectitudes altas: La (Y) el de las Rectitudes bajas: La (G) y la (F) los delos lados: La (J) el de atras: Y la (P) el de adelante, que es el Angulo Recto.
+![figure](https://github.com/RomanosTrechlis/MyNotes/blob/master/Ettenhard/images/de_los_movimientos_rectitudes.png "De los Movimientos y Rectitudes")
 
 {p. 25}
 
