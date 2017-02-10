@@ -11,4 +11,12 @@ La estocada no tiene mas que una especie, segun su formacion, y todas estas tret
 {p. 37}
 Muy importante ha sido poner en practica esta Demonstracion, porque da a enteder con realidad los Puntos, y Lineas que en el cuerpo del hombre se deben considerar, para el uso de la verdadera Destreza; pues es cierto (como adelante veremos) que le es al Diestro muy importante este conocimiento, para dirigir las heridas a los Puntos donde se puedan executar sin riesgo: Y assimismo podremos tambien con mucha facilidad difinir las especies que a y de Tajos, y Reveses, que sin la Demonstracion fuera mas confusa su inteligencia, y con ella estan clara, q parece que sin mas explicacion lo esta dando a entender: Y assidigo, que ek Tajo Vertical del lado izquirdo que senala la letra (C) cayendo derecha, y perpendicularment con el Movimiento Natural, y se le da este nombre, por fer el de la Linea donde tiene la execution.
 
-Lo mismo se entiende del Reves, deferenciandose solo en la Linea,  {p. 38
+Lo mismo se entiende del Reves, deferenciandose  {p. 38} solo en la Linea, por fer en la Vertical del lado derecho, que muestra la (B) donde se deben executar; advirtiendo que tambien pueden se llam Vertical Diametral, que tambien se llama Vertical, y muestra la letra (A).
+Los Tajos, y Reveses Diagonales, son lon q hieren en las Lineas Diagonales que crucan el Rostio (D) (E) con la distincion, que el Reves hiere desde la ceja derecha, hasta el lado izquier do de la barba: y el Tajo desde le ceja izquierda hasta el lado derecho; y toman el nombre de las Lineas donde se executan.
+
+Los Tajos, y Reveses Oricontales, son en la Linea de este nombre, formada en la Demonstracion (j) (K).
+De esta especie se usa poco en la Verdadera Destreza, por el conocido riesgo que ofrecen a quien los forma.
+
+Bastantemente parece queda declarado todo lo que a la Demonstracion toca: las especies de Tajos, y Reveses que ay, las {p. 39} Lineas donde se executan, y de donde toman los nombres: Con que ya nos es preciso dar a entender el modo de la formacio; porque saber que pueden tener execucion, y en los puntos dode, e ignorar cenoha ceser (?), me parece que seria queda con toda cortedad en la declaracion de estos principios: y assi con la mayor claridad que para la facilidad de su inteligencia fuere possible, ire dando la noticia conueniente.
+
+
