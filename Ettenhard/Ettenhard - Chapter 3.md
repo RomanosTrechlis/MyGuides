@@ -9,3 +9,6 @@ La estocada no tiene mas que una especie, segun su formacion, y todas estas tret
 ![figure](https://github.com/RomanosTrechlis/MyNotes/blob/master/Ettenhard/images/deligneacion_considerada_en_el_Cverodl_hombre.png "Deligneacion Considerada En El Cverpodl Hombre")
 
 {p. 37}
+Muy importante ha sido poner en practica esta Demonstracion, porque da a enteder con realidad los Puntos, y Lineas que en el cuerpo del hombre se deben considerar, para el uso de la verdadera Destreza; pues es cierto (como adelante veremos) que le es al Diestro muy importante este conocimiento, para dirigir las heridas a los Puntos donde se puedan executar sin riesgo: Y assimismo podremos tambien con mucha facilidad difinir las especies que a y de Tajos, y Reveses, que sin la Demonstracion fuera mas confusa su inteligencia, y con ella estan clara, q parece que sin mas explicacion lo esta dando a entender: Y assidigo, que ek Tajo Vertical del lado izquirdo que senala la letra (C) cayendo derecha, y perpendicularment con el Movimiento Natural, y se le da este nombre, por fer el de la Linea donde tiene la execution.
+
+Lo mismo se entiende del Reves, deferenciandose solo en la Linea,  {p. 38
