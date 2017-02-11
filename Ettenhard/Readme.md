@@ -2,26 +2,26 @@
 ### Don Francisco Antonio de Ettenhard
 #### Veritas Brevitas Ciencia Desteza
 
+***
 
 ### First Treatise: Geometric Principles
 Translation | Transcription
 
 ### Second Treatise: Fundamental Principles
-
 #### Chapter 1: Angles and the Swordsman
 Translation | Transcription 
 
 #### Chapter 2: Movement
-Translation | Transcription
+Translation | [Transcription](Capitulo II.md)
 
 #### Chapter 3: Offensive Techniques
-Translation | Transcription
+Translation | [Transcription](Capitulo III.md)
 
 #### Chapter 4: Footwork
-Translation | Transcription
+Translation | [Transcription](Capitulo IIII.md)
 
 #### Chapter 5: Graduation of the Sword
-Translation | Transcription
+Translation | [Transcription](Capitulo V.md)
 
 ### Third Treatise: Oppositions
 
