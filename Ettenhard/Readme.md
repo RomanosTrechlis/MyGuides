@@ -1,3 +1,59 @@
 # Compendio de los Fundamentos de la Verdadera Destraza y Filosofia de las Armas
 ### Don Francisco Antonio de Ettenhard
 #### Veritas Brevitas Ciencia Desteza
+
+
+### First Treatise: Geometric Principles
+Translation | Transcription
+
+### Second Treatise: Fundamental Principles
+
+#### Chapter 1: Angles and the Swordsman
+Translation | Transcription 
+
+#### Chapter 2: Movement
+Translation | Transcription
+
+#### Chapter 3: Offensive Techniques
+Translation | Transcription
+
+#### Chapter 4: Footwork
+Translation | Transcription
+
+#### Chapter 5: Graduation of the Sword
+Translation | Transcription
+
+### Third Treatise: Oppositions
+
+#### Chapter 1: Measure of Proportion
+Translation | Transcription
+
+#### Chapter 2: Opposition of Angles
+Translation | Transcription
+
+#### Chapter 3: Opposition of Movement
+Translation | Transcription
+
+#### Chapter 4: Opposition of Techniques
+Translation | Transcription
+
+#### Chapter 5: Opposition of Footwork
+Translation | Transcription
+
+#### Chapter 6: Opposition of Degrees of the Sword
+Translation | Transcription
+
+
+### Fourth Treatise:
+
+#### Chapter 1: About Proportionate Measure
+Translation | Transcription
+
+#### Chapter 2: About Atajo
+Translation | Transcription
+
+#### Chapter 3: About Attacks
+Translation | Transcription
+
+#### Chapter 4: About the General Techniques
+Translation | Transcription 
