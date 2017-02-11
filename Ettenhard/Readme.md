@@ -5,55 +5,55 @@
 ***
 
 ### First Treatise: Geometric Principles
-Translation | Transcription
+(Translation | Transcription)
 
 ### Second Treatise: Fundamental Principles
 **Chapter 1: Angles and the Swordsman**
-Translation | Transcription 
+(Translation | Transcription) 
 
 **Chapter 2: Movement**
-Translation | [Transcription](Capitulo II.md)
+(Translation | [Transcription](Capitulo II.md))
 
 **Chapter 3: Offensive Techniques**
-Translation | [Transcription](Capitulo III.md)
+(Translation | [Transcription](Capitulo III.md))
 
 **Chapter 4: Footwork**
-Translation | [Transcription](Capitulo IIII.md)
+(Translation | [Transcription](Capitulo IIII.md))
 
 **Chapter 5: Graduation of the Sword**
-Translation | [Transcription](Capitulo V.md)
+(Translation | [Transcription](Capitulo V.md))
 
 ### Third Treatise: Oppositions
 
 **Chapter 1: Measure of Proportion**
-Translation | Transcription
+(Translation | Transcription)
 
 **Chapter 2: Opposition of Angles**
-Translation | Transcription
+(Translation | Transcription)
 
 **Chapter 3: Opposition of Movement**
-Translation | Transcription
+(Translation | Transcription)
 
 **Chapter 4: Opposition of Techniques**
-Translation | Transcription
+(Translation | Transcription)
 
 **Chapter 5: Opposition of Footwork**
-Translation | Transcription
+(Translation | Transcription)
 
 **Chapter 6: Opposition of Degrees of the Sword**
-Translation | Transcription
+(Translation | Transcription)
 
 
 ### Fourth Treatise:
 
 **Chapter 1: About Proportionate Measure**
-Translation | Transcription
+(Translation | Transcription)
 
 **Chapter 2: About Atajo**
-Translation | Transcription
+(Translation | Transcription)
 
 **Chapter 3: About Attacks**
-Translation | Transcription
+(Translation | Transcription)
 
 **Chapter 4: About the General Techniques**
-Translation | Transcription 
+(Translation | Transcription) 
