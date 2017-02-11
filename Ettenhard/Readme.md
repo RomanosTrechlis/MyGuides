@@ -1,6 +1,6 @@
 # Compendio de los Fundamentos de la Verdadera Destreza y Filosofia de las Armas
 ### Don Francisco Antonio de Ettenhard
-#### Veritas Brevitas Ciencia Destreza
+**Veritas Brevitas Ciencia Destreza**
 
 ***
 
@@ -8,52 +8,52 @@
 Translation | Transcription
 
 ### Second Treatise: Fundamental Principles
-#### Chapter 1: Angles and the Swordsman
+**Chapter 1: Angles and the Swordsman**
 Translation | Transcription 
 
-#### Chapter 2: Movement
+**Chapter 2: Movement**
 Translation | [Transcription](Capitulo II.md)
 
-#### Chapter 3: Offensive Techniques
+**Chapter 3: Offensive Techniques**
 Translation | [Transcription](Capitulo III.md)
 
-#### Chapter 4: Footwork
+**Chapter 4: Footwork**
 Translation | [Transcription](Capitulo IIII.md)
 
-#### Chapter 5: Graduation of the Sword
+**Chapter 5: Graduation of the Sword**
 Translation | [Transcription](Capitulo V.md)
 
 ### Third Treatise: Oppositions
 
-#### Chapter 1: Measure of Proportion
+**Chapter 1: Measure of Proportion**
 Translation | Transcription
 
-#### Chapter 2: Opposition of Angles
+**Chapter 2: Opposition of Angles**
 Translation | Transcription
 
-#### Chapter 3: Opposition of Movement
+**Chapter 3: Opposition of Movement**
 Translation | Transcription
 
-#### Chapter 4: Opposition of Techniques
+**Chapter 4: Opposition of Techniques**
 Translation | Transcription
 
-#### Chapter 5: Opposition of Footwork
+**Chapter 5: Opposition of Footwork**
 Translation | Transcription
 
-#### Chapter 6: Opposition of Degrees of the Sword
+**Chapter 6: Opposition of Degrees of the Sword**
 Translation | Transcription
 
 
 ### Fourth Treatise:
 
-#### Chapter 1: About Proportionate Measure
+**Chapter 1: About Proportionate Measure**
 Translation | Transcription
 
-#### Chapter 2: About Atajo
+**Chapter 2: About Atajo**
 Translation | Transcription
 
-#### Chapter 3: About Attacks
+**Chapter 3: About Attacks**
 Translation | Transcription
 
-#### Chapter 4: About the General Techniques
+**Chapter 4: About the General Techniques**
 Translation | Transcription 
