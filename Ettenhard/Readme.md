@@ -9,7 +9,7 @@
 
 ### Second Treatise: Fundamental Principles
 **Chapter 1: Angles and the Swordsman**
-(Translation | Transcription) 
+(Translation | [Transcription](Tratado Segundo Capitulo I.md)) 
 
 **Chapter 2: Movement**
 (Translation | [Transcription](Tratado Segundo Capitulo II.md))
