@@ -27,7 +27,7 @@
 (Translation | [Transcription](Tratado Tercero.md))
 
 **Chapter 1: Measure of Proportion**
-(Translation | Transcription)
+(Translation | [Transcription](Tratado Tercero Capitulo I.md))
 
 **Chapter 2: Opposition of Angles**
 (Translation | Transcription)
