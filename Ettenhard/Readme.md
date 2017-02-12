@@ -5,7 +5,7 @@
 ***
 
 ### First Treatise: Geometric Principles
-(Translation | [Transcription](Tratado Primero.md)))
+(Translation | [Transcription](Tratado Primero.md))
 
 ### Second Treatise: Fundamental Principles
 **Chapter 1: Angles and the Swordsman**
