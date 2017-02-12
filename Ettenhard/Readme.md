@@ -24,6 +24,7 @@
 (Translation | [Transcription](Tratado Segundo Capitulo V.md))
 
 ### Third Treatise: Oppositions
+(Translation | [Transcription](Tratado Tercero.md))
 
 **Chapter 1: Measure of Proportion**
 (Translation | Transcription)

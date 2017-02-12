@@ -44,12 +44,3 @@ Confacilidad se compehende por medio de la Demonstracion presente el modo de la 
 El determinar cantidad fixa a los Compases, para obrar las proposiciones, lo tengo por cosa sumamente dificil (y aun imossible) por q como las distancias se proporcionan {p. 60}, acortando el Diestro su Compas, todo lo que el contrario huviere (?) alargado el suyo: y el formarle largo, o corto sea assi en el uno, como en el otro Acto voluntario, y no preciso, no se puede dar punto fixo a lo que no le puede dar de quatro, y de uno.
 Solo en un caso se pudiera coseguir, y es, si el uno de los Combatientes estuviera sin moverse de su lugar, que respeto de no aterar las distincias, se podian proponer cantidades fixas para el uso de los Copases.
 Pero biese reconoce q dificil es la cosideracion de un contrario inmovil; con que me ratifico en mi dictame, que a u q nuestro Mestro D. Luis Pacheco de Narbaez les dio tres medidas, y para su distincion los nombro Compas doble, o paso Geometrico, Copas Sensillo, y pasada; dandole al doble cinco pies de longitud, el uno de macico (q es donde hace assiento el pie) y los quatro de hueco: al sencillo tres, uno de macico {p. 61} y dos de hueco: y a la pasada dos, el uno macico, y el otro hueco; con todo no es bastante para q no se puedan formar de seis, de  quatro, y de uno: con que absolutamente digo, que solo el conocimiento, y capacidad de los Combatientes podran medir proporcionadamente las distancias, teniendo por regla general, que si el contrario diere los Compases largos, el Diestro los ha de dar cortos, supliendo el uno la desproporcion del otro, y se conseguira la perfeccion en el modo de formarlos: Y pues no ay cosa alguna (tocante a esta materia de Compases) q poder declarar hasta otra ocasion en que bolvamos a tratar de ellos, sera bien prosequir, demonstrando, y dando noticia de la division, y graduacion de la Espada, por fer uno de los mas fundamentales principios de esta Ciencia, y muy importante, y necessario su conocimiento, para conseguir la defensa propia, y ofensa del contrario.
-
- 
-
-
-
-
-
-
-
