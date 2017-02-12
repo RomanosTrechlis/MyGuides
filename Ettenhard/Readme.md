@@ -30,10 +30,10 @@
 (Translation | [Transcription](Tratado Tercero Capitulo I.md))
 
 **Chapter 2: Opposition of Angles**
-(Translation | Transcription)
+(Translation | [Transcription](Tratado Tercero Capitulo II.md))
 
 **Chapter 3: Opposition of Movement**
-(Translation | Transcription)
+(Translation | [Transcription](Tratado Tercero Capitulo III.md))
 
 **Chapter 4: Opposition of Techniques**
 (Translation | Transcription)
