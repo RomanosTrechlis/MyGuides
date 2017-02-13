@@ -10,7 +10,7 @@ El Movimiento Remiso, que camina a {p. 85} las Rectitudes de los lados, tambien 
 
 El Movimiento Estrano que acorta el alcance, aunque no pierde la correspondecia del contrario, tiene la misma oposicion con el Accidental; porque al mismo tiempo que el uno va retrocediendo para disponer, va el otro caminando para executar la herida, y lo consigue con evidencia.
 
-Tambien se opone al Movimiento Natural que baja desde el Angulo Recto, a participar de la Rectitud baxa, en razon de Angulo Agudo, por la misma descorrespondencia, y desminucion de alcance, conmo queda probado.
+Tambien se opone al Movimiento Natural que baja desde el Angulo Recto, a participar de la Rectitud baja, en razon de Angulo Agudo, por la misma descorrespondencia, y desminucion de alcance, conmo queda probado.
 
 Esto se logra, con gozar del tiempo en que se forman estos Movimientos; de tal suerte, que al mismo Punto que el contrario empiece qualquiera de los Referidos, en el mismo debe el Diestro dar principio al {p. 86} suyo, y conseguira herir en tiempo, gozando de los Movimientos del contrario: pero si por algun accidente, o descuido se pierde la ocasion en que el contrario hace la formacion de ellos, aviendo llegado a su termino, y estando en punto de empecar el que ha de hacer le execucion, el Movimiento Accidental no tendra en este caso poder para estorvar la herida, y lo que puede seceder, sera herirse los dos Combatientes: el uno de Estocada: y el otro de Tajo, o Reves, o de medio Tajo, o medio Reves, o ambos de Estocada, segun los Movimientos dispositivos que huvieren precedido, ocasionando esta igualdad la ignorancia de los preceptos para la oposicion de los Movimientos que executan: y para no incurrir en tanpei igroso (?) herror, proseguire en su declaracion.
 
