@@ -14,7 +14,7 @@ El Diestro le forma, quando sube la espada a ocupar {p. 15} la Linea (B) y rendr
 
 El Angulo, es demenor capacidad que el Recto; por no llegar a la quatra parte de la Circunferencia, es tanmbien de menos alcance.
 Dasele el valor, segun en los grados que se halla.
-El Diestro le forma, quando baxa la Espada a ocupar la Linea que senala la letra (C) y valdra por quarenta grados, que son los que le tocan.
+El Diestro le forma, quando baja la Espada a ocupar la Linea que senala la letra (C) y valdra por quarenta grados, que son los que le tocan.
 En la figuiente Demonstracion se manifiesta con toda claridad.
 
 ![figure](images/como_se_forman_los_angulos_recto_obtuso_y_agudo.png "Como se forman los Angulos Recto, Obtuso y Agudo")
