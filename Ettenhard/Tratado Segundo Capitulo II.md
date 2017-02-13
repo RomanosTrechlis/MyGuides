@@ -4,7 +4,7 @@
 Movimiento, es una accion precisa para reducir en Acto lo que esta en potencia, sin la qual ninguna cosa se podra mover de un lugar a otro. 
 Es genero que comprehede todos los que puede aver: los simples son seis, y sus nombres, Violento, Natural, Remiso de Reduccion, Estranio, Accidental; el Violento, es el que sube; el Natural, el que baja; el Remiso, el que se aparta a qualquiera de los lados; el de Reducion, es el que de los lados buelue al Angulo Recto; el Estrano, es el que va a atras; y el Accidental, el que va adelante. 
 Asi mismo las Rectitudines Generales son seis, y sus lugares, arriva, abaxo, a un lado, y a otro, atras, y adelante: conque don cada movimiento {p 21} se va a su Rectitud. 
-El modo de executarlo, se ve en la figuiente Demonstracion, por la figura (X) advirtiendo, que el centro de las Rectitudes, y movimietos, es el Angulo Recto, que se considera donde senala la letra (A). Y asi, si sube la Espada a la Linea que muestra la linea (B) hace Movimiento Violento, y esta en rectitud Alta.
+El modo de executarlo, se ve en la figuiente Demonstracion, por la figura (X) advirtiendo, que el centro de las Rectitudes, y movimientos, es el Angulo Recto, que se considera donde senala la letra (A). Y asi, si sube la Espada a la Linea que muestra la linea (B) hace Movimiento Violento, y esta en rectitud Alta.
 
 Si baja la Espada a la Linea (C) hace Movimiento Natural, y se halla en Rectitud Baja.
 
