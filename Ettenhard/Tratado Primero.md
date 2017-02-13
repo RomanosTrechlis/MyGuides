@@ -22,12 +22,12 @@ El Recto es, el que comprehende (en la capacidad que ay entre las dos Lineas) la
 El Obtuso es, el que coge mas que la quarta parte (Y), y el Agudo es que coge menos (j).
 
 Los Angulos Obtusos, y los Agudos, no tienen Puntos determinados, por cuya causa pueden ser mas, o menos Obtusos, o mas o menos Agudos. Y asi, para poder darles los valores, y graduaciones, es necessario hacer una Demonstracion, que con facilidad {p. 4} de la inteligencia.
-Sea, pues, un circulo, el qual ha de estar dividido en trecientas y sesenta partes iguales, a quien llamaremos grados; y se reconocera, q al Angulo Recto, por no coger mas que la quarta parte de el, es preciso le toquen por Punto fixo noventa grados; porque si pasa un grado de los noveta, se mudara de la especie de Recto a la de Obtuso, por coger mas q la quarta parte: advirtiendo que todo lo que se fuere aumentando el numero, tanto se ira acrecentando el Angulo, teniendo tambien por cierto, que si baxa un grado de los noventa, pasara a la especie de Agude: con la misma advertencia, de que quanto fueren declinando los Grados, tanto se ira minorando la capacidad al Angulo.
+Sea, pues, un circulo, el qual ha de estar dividido en trecientas y sesenta partes iguales, a quien llamaremos grados; y se reconocera, que al Angulo Recto, por no coger mas que la quarta parte de el, es preciso le toquen por Punto fixo noventa grados; porque si pasa un grado de los noveta, se mudara de la especie de Recto a la de Obtuso, por coger mas que la quarta parte: advirtiendo que todo lo que se fuere aumentando el numero, tanto se ira acrecentando el Angulo, teniendo tambien por cierto, que si baxa un grado de los noventa, pasara a la especie de Agude: con la misma advertencia, de que quanto fueren declinando los Grados, tanto se ira minorando la capacidad al Angulo.
 Sacase que con esta prueba se puede dar medida, y valores a los Angulos, viendo la parte de circulo que cogen, y reconociendo los grados que en su capacidad se comprehenden.
 En la primera Demonstracion se anota con la letra (Z) {p. 5}.
 
 La superficie se compone de Lineas.
-Tiene logitud, y latitud, q es lo mismo q largo, y ancho.
+Tiene logitud, y latitud, que es lo mismo que largo, y ancho.
 Es de tres generos, Plana, Concava, y Combexa; la Plana, es como la tabla lisa, la Concava, es como la guarnicion de una Espada por dentro; y la Combexa, como la quarnicion de la espada por fuera.
 
 La figura llana, no es otra cosa que una superficie cerrada, que si se compone de Lineas Rectas, son necessarias tres; porque con menos no se podra formar: y por esta causa es el Treangulo la moner figura que consta de tres Lineas, terminadas en tres Puntos, de cuyo concurso se forma tres Angulos; pero si se forma de Linea Curba, con solo una se hara figura: la qual se llama Circulo; y el Punto que esta en medio, Cetro; y la Linea, circunferencia.
@@ -57,7 +57,7 @@ Si los lados son desiguales, sera Rectangulo prolongado (T).
 
 El Parallelon Gramo que tiene los Angulos desiguales, y los quatro lados iguales se dize Rombo (V) y si los lados son tambie desiguales, se llama Romboide (X).
 
-A las figuras llanas, sigue el cuerpo solido, el qual tiene tres medidas, Longitud, Latitud, y Profundidad, que es lo mismo q largo, ancho,y hondo: y asi, como la figura llana se forma de lineas, el cuerpo solido se compone de superficies.
+A las figuras llanas, sigue el cuerpo solido, el qual tiene tres medidas, Longitud, Latitud, y Profundidad, que es lo mismo que largo, ancho,y hondo: y asi, como la figura llana se forma de lineas, el cuerpo solido se compone de superficies.
 Y para que no falte esta noticia, demostrare la figura, que mas facilmente los pueda dar a entender.
 Sea, pues, el Exaedro, que se compone de {p. 8} seis Quadrados, y tiene seis caras, como manifiesta la siguiente figura, anotada con la letra (K).
 
@@ -67,13 +67,13 @@ Y el cuerpo solido, de superficies; trarare de declarar los nombres de las Linea
 
 Si un Circulo se divide en dos Partes iguales, con una Linea Recta que pase por el Centro a tocar en las Extremidades de la Circunferencia, se llamara Diametro (B).
 
-Si se dividiere un Circulo en dos Partes desiguales, con una Linea q no pasa por el centro, la llamanos Cuerda, y es menor q el {p. 9} Diametro, a la parte mayor, porcion mayor; y a la menor, porcion menor (C).
+Si se dividiere un Circulo en dos Partes desiguales, con una Linea que no pasa por el centro, la llamanos Cuerda, y es menor que el {p. 9} Diametro, a la parte mayor, porcion mayor; y a la menor, porcion menor (C).
 
 Quando una Linea Recta cae a plomo derechamente sobre otra, se llama Perpendicular (D), y la que la recibe Basis (E).
 
 Otras Lineas Rectas ay, que se llaman Paralelas, que son las que se tiran igualmente, distantes la una de la otra: de suerte que aunque se alarguen en infinito, nunca llegan a juntarse (F).
 Otras se llaman concurrentes, por inclinarse mas a un lado que a otro, y en largo, o breve espacio concurren en un Punto, y forman angulo (G).
 
-Todo lo difinido, y demostrado, son los primeros rudimentos de la Geometria, tan necessario, y preciso su conocimiento al q huviere de ensenar la verdadera Destreza, como al que la huviere de apreder: pues el que ha de explicar, no puede sin ellos dar a entender con fundamento, y claridad los terminos de esta Ciencia: y no siendo asi, tampoco podra aprender con gusto, ni saber {p. 10} con perfeccion el que huviere de ser enserado: por cuya cusa ha sido preciso dar esta breve noticia, que aunque solo es delos principios, es la bastante, para poder esperar conseguir el inteto de difinir, y demostrar las proposiciones de la verdadera Destreza, con algun acierto: y para dar principio a ello, sera bien constituir al Diestro en la posicion, y plantan as segun su difinicion, que le forma en la manera que adelante se propone. 
+Todo lo difinido, y demostrado, son los primeros rudimentos de la Geometria, tan necessario, y preciso su conocimiento al que huviere de ensenar la verdadera Destreza, como al que la huviere de apreder: pues el que ha de explicar, no puede sin ellos dar a entender con fundamento, y claridad los terminos de esta Ciencia: y no siendo asi, tampoco podra aprender con gusto, ni saber {p. 10} con perfeccion el que huviere de ser enserado: por cuya cusa ha sido preciso dar esta breve noticia, que aunque solo es delos principios, es la bastante, para poder esperar conseguir el inteto de difinir, y demostrar las proposiciones de la verdadera Destreza, con algun acierto: y para dar principio a ello, sera bien constituir al Diestro en la posicion, y plantan as segun su difinicion, que le forma en la manera que adelante se propone. 
 
 ![figure](images/tratado_primero.png "Geometria")
