@@ -1,14 +1,14 @@
 ## CAPITULO III
 ### De la Oposicion de los Movimientos
 
-Con la segura noticia que ya se tiene de que para los Movimientos executantes puedan obrar, es preciso que los despositivos preceda en primer lugar, me parece se podra con facilidad poner en el conocimiento de la oposicion, que unas especies se hacen a otras; y asi empecaremos a oponer los Dospisitivos, que son el Violento, para que execute el Natural, el Remiso, para que execute el de Reduccion, y el Estrano, para que obre el Accidental.
+Con la segura noticia que ya se tiene de que para los Movimientos executantes puedan obrar, es preciso que los despositivos preceda en primer lugar, me parece se podra con facilidad poner en el conocimiento de la oposicion, que unas especies se hacen a otras; y asi empecaremos a oponer los Dospisitivos, que son el Violento, para que execute el Natural, el Remiso, para que execute el de Reduccion, y el Estraño, para que obre el Accidental.
 Con que digo, que este es el que se opone a todos porque como se obra en razon de Angulo Recto, tiene la preeminencia {p. 84} del mayor alcance, caminando en correspondencia del Punto de Tocamento mas cercano, donde se ha de constituir la herida en el contrario: pero para mejor pedernos hacer capaces, y que dar asegurados de la verdad de esta proposicion, se avra de considerar la formacion de estos movimientos, y se reconocera ser indubitable la oposicion que se hace con el Accidental.
 
 El Movimiento Violento (que como ya se ha dicho) sube a participar de la Rectitud Alta, en razon de Angulo Obtuso, desminuyendo el alcance, y desviandose la Espada de la correspondencia de los Puntos de Tocamento que se consideran en el contrario, es opuesto del Accidental que va en razon de Angulo Recto con el mayor alcance, y en correspondencia de Punto fixo; con que quando el Violento llega a su termino, ya ha executado el Accidental.
 
 El Movimiento Remiso, que camina a {p. 85} las Rectitudes de los lados, tambien minora el alcance, se desvia de la correspondencia del contrario, y por la mismas razones es opuesto del Accidental.
 
-El Movimiento Estrano que acorta el alcance, aunque no pierde la correspondencia del contrario, tiene la misma oposicion con el Accidental; porque al mismo tiempo que el uno va retrocediendo para disponer, va el otro caminando para executar la herida, y lo consigue con evidencia.
+El Movimiento Estraño que acorta el alcance, aunque no pierde la correspondencia del contrario, tiene la misma oposicion con el Accidental; porque al mismo tiempo que el uno va retrocediendo para disponer, va el otro caminando para executar la herida, y lo consigue con evidencia.
 
 Tambien se opone al Movimiento Natural que baja desde el Angulo Recto, a participar de la Rectitud baja, en razon de Angulo Agudo, por la misma descorrespondencia, y desminucion de alcance, conmo queda probado.
 
@@ -16,7 +16,7 @@ Esto se logra, con gozar del tiempo en que se forman estos Movimientos; de tal s
 
 A los Movimientos Dispositivos, sigues los executantes, cuya oposicion es distinta, por averse de hacer con agregacion de Espada {p. 87}, y la otra de causa libre: de manera, que el Movimiento Accidental, el de reduccion, y el Natural (que son los que por naturaleza forman las heridas) son destruidos, y opuestos del Natural, por su mayor promptitud, fortaleza, y realidad: y en esta consideracion ire explicando todas estas oposiciones, en la conformidad que se sigue.
 
-El Movimiento Accidental, que por si solo, o por preceder la disposicion del Estrano viene por una Linea Recta, correspondiente al Punto de Tocamento que el contrario ha eligido para herir de Estocada, es destuida, ydesvanecida su forma con el Natural; porque agregando el Diestro su Espada (con superioridad de grados) corta, y sugeta la contraria: de suerte, que baxandola a participar del Angulo Agudo, la quita la correspondencia, y alcance, pribandola, no solo del acto presente, sino dexandola impossibilitada de poder seguir {p. 88} ninguna determinacion, sin conocido riesgo.
+El Movimiento Accidental, que por si solo, o por preceder la disposicion del Estraño viene por una Linea Recta, correspondiente al Punto de Tocamento que el contrario ha eligido para herir de Estocada, es destuida, ydesvanecida su forma con el Natural; porque agregando el Diestro su Espada (con superioridad de grados) corta, y sugeta la contraria: de suerte, que baxandola a participar del Angulo Agudo, la quita la correspondencia, y alcance, pribandola, no solo del acto presente, sino dexandola impossibilitada de poder seguir {p. 88} ninguna determinacion, sin conocido riesgo.
 
 El Movimiento de Reduccio, que dispuesto de Remiso, viene a executar herida de medio Tajo, o medio Reves, es tambien por la misma razon, opuesto, y sugeto del Natural; pues qunado la Espada contraria se viene reduciendo al Punto del Tocamento, hace el Diestro la Agregacion con la suya, y la sugeta, y dexa con la misma privacion que se ha dicho, a cuya accion llamamos matar el Movimiento.
 

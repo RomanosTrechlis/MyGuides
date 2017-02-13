@@ -1,9 +1,9 @@
 ## CAPITULO IIII.
 ### De la Difinicion del Compas, y sus Especies.
 
-Compases un Movimiento que hace el cuerpo, quando dexa un lugar para ocupar otro: y para mayor claridad, es cierto que dar un Compas, es lo mismo que dar un paso: es genero, y tiene cinco especies simples, cuyos nombres son, Recto, Curbo, Transversal de Trepidacion, y Estrano: Otros dos ay Mixtos, que son el de Trepidacion, y Estrano, y el de Transversal, y Curbo; pero para su declaracion, y conocimiento, se necessita de la Demonstracion del Circulo que se imagina entre los dos Cobatietes: y hecho, se pue de co suma facilidad difinir cada especie de las referidas, y luego se tratara de los Mixtos de Transversal, y Curbo, y de {p. 51} Trepidacion, y Estrano, dando las noticias que poraora fueren convenientes, perp en primer lugar, es forcosa, y precisa la explicacion de la presente Figura, segun su deligneacion.
+Compases un Movimiento que hace el cuerpo, quando dexa un lugar para ocupar otro: y para mayor claridad, es cierto que dar un Compas, es lo mismo que dar un paso: es genero, y tiene cinco especies simples, cuyos nombres son, Recto, Curbo, Transversal de Trepidacion, y Estraño: Otros dos ay Mixtos, que son el de Trepidacion, y Estraño, y el de Transversal, y Curbo; pero para su declaracion, y conocimiento, se necessita de la Demonstracion del Circulo que se imagina entre los dos Cobatietes: y hecho, se pue de co suma facilidad difinir cada especie de las referidas, y luego se tratara de los Mixtos de Transversal, y Curbo, y de {p. 51} Trepidacion, y Estraño, dando las noticias que poraora fueren convenientes, perp en primer lugar, es forcosa, y precisa la explicacion de la presente Figura, segun su deligneacion.
 
-	(A) Linea Recta, para el Copas Estrano.
+	(A) Linea Recta, para el Copas Estraño.
 	(B) Lineas intermedias.
 	(C) Linea infinita del pie izquierdo.
 	(D) Linea infinita del pie derecho.
@@ -24,11 +24,11 @@ Pueden formar le ambos pies, cada uno por la parte que le tocare.
 
 El Compas Trensversal, se forma por qualquiera de las Lineas Rectas que forman los Angulos Rectilineos, donde senala la (G) con la distincion de derecho, e izquierdo; y solo al pie derecho toca su formacion.
 
-El Compas Estrano, o Retrocedente, es el que se da por la Linea Recta que va a la parte de atras, donde senala la (A): y solo toca su execucion al pie izquerdo.
+El Compas Estraño, o Retrocedente, es el que se da por la Linea Recta que va a la parte de atras, donde senala la (A): y solo toca su execucion al pie izquerdo.
 
 El Compas de Trepidacio se forma por {p. 56} las Lineas Rectas, que llamamos Infinitas, que senalan las letras (D) y (C): puede empecarse a formar con ambos pies.
 
-El Compas Mixto de Trepidacion, y Estrano, se da por la Linea Recta Intermedia, que esta entre la Infinita, y la Recta, por dode se da el Estrano (B).
+El Compas Mixto de Trepidacion, y Estraño, se da por la Linea Recta Intermedia, que esta entre la Infinita, y la Recta, por dode se da el Estraño (B).
 Y porque participa de las dos especies, se la da este nombre: puede empecarle qualquiera de los dos pies.
 
 El Compas Mixto de Trasversal, y Curbo, sirve (?) para hacer Movimiento de Conclusion, y solo se puede formar por el lado izquierdo del Actor.
