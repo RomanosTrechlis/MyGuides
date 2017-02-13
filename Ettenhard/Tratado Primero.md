@@ -5,7 +5,7 @@ La primera cosa que se nota en la Geometria, es el Punto, por ser de quien depen
 Euclides le difine, diziendo: Punto es aquel, cuya parte es nunguna.
 Pero para que con mayor claridad nos expliquemos, digo: Que el {p. 2} Punto, es la mas delgada nota que se pudiere hacer, poniendo la pluma sebre el papel, y le muestra la letra (A) en la primera Demonstracion.
 
-Siguese al Punto la Linea , la qual no tiene otra cosa que longitud, que es lo mismo que largura; y assi hemos de considerar una muy sutil raya, compuesta de unos delgados puntos.
+Siguese al Punto la Linea , la qual no tiene otra cosa que longitud, que es lo mismo que largura; y asi hemos de considerar una muy sutil raya, compuesta de unos delgados puntos.
 De tres modos son las Lineas: unas se llaman Rectas, otras Curbas, y otras Mixtas.
 La Recta, es la breve extension de un punto a otro: Son Regulares porque siepre se tiran de un modo.
 Vese anotada en la siguiente Demostracion, donde senala la letra (B).

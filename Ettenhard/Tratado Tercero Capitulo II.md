@@ -12,5 +12,5 @@ Por la antecedente Demonstracion se da tambien noticia del modo de herir, que ll
 
 Los Angulos Obtusos, tienen oposicion entre sus especies, segun el valor de graduacion que tuvieren; porque los que tienen, y comprehende mas grados, son opuestos de los que tienen menos, como tambien lo ensena la Demonstracion, reconciendo, y considerando, que el Angulo Obtuso que tuviere en su capacidad cien grados, se opondra al que tuviere el calor de ciento y treinta, por se fixo que se halla mas cercano al Angulo Recto, y participa del mayor alcance, tanto quanto mas proximo estuviere a el.
 
-La misma oposicion admite la especie de Angulo Agudo, pero es con una deferencia que los de mas graduacion son contrarios a los de menos: y assi el Angulo Agudo que tuviere el valor de ochenta grados, tendra mas alcance que el que comprehendiere {p. 83} cinquenta, por la misma razo que se ha dicho de la cercania del Angulo Recto con que se opone al mas distante.
+La misma oposicion admite la especie de Angulo Agudo, pero es con una deferencia que los de mas graduacion son contrarios a los de menos: y asi el Angulo Agudo que tuviere el valor de ochenta grados, tendra mas alcance que el que comprehendiere {p. 83} cinquenta, por la misma razo que se ha dicho de la cercania del Angulo Recto con que se opone al mas distante.
 

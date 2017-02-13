@@ -1,7 +1,7 @@
 ## CAPITULO I
 ### De como se debe elegir Medio de Proporcion
 
-Elegir Medio de Proporcion, es determinar una destancia proporcionalda, y combeniete, desde la qual puede el Diestro reconocer los movimientos del contrario, pues para qualquiera determinacion suya, han de preceder, assi de cuerpo, como de braco, y Espada.
+Elegir Medio de Proporcion, es determinar una destancia proporcionalda, y combeniete, desde la qual puede el Diestro reconocer los movimientos del contrario, pues para qualquiera determinacion suya, han de preceder, asi de cuerpo, como de braco, y Espada.
 De cuerpo, mediante compas: y de Espada, mnediante formacion de Treta.
 
 El modo de conseguirlo, esena la siguiente Demostracion, pues claramente manifiesta, q para no errar (antes bien para conseguir con perfeccion el acierto) ha de medir el Diestro su Espada con la del contrario, de suerte que no pase la punta del pomo, sirviendo esta prevencion, no solo para {p. 71} reconocer los Movimientos, sino para saber si la Espada contraria excede en longitud ala suya.
