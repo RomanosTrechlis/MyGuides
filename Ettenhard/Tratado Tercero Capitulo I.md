@@ -22,4 +22,4 @@ Y el Trasferido, es el que el Diestro quita a su contrario, oponiendo le sus Com
 Considerando nuestro Maestro su realidad, dize: Que se llama Propieente Medio, porque carece de todos los estemos.
 Proporcionado, porque el movimiento que el Diestro heziiere, ha de ser con tal medida que ni sobre en losuperfluo, ni falte en lo necessario.
 y para mas ponderar su grande za digo; que es cierto, q el que llega a constituirse en el con perfeccion, consigue el sin de esta Ciencia, pues no es otro que el que ofrece este medio, asegurando la defensa propia, y ofensa del contrario.
-Y assi, puesto, y recapacitado el Diestro, en lo que para adquirir conocimiento de la importancia {p. 77} de estos medios queda advertido, se proseguira, manifestando la oposicion de los Angulos, y de los demas Fundamentos, como por su orden se fueren siguiendo.
+Y asi, puesto, y recapacitado el Diestro, en lo que para adquirir conocimiento de la importancia {p. 77} de estos medios queda advertido, se proseguira, manifestando la oposicion de los Angulos, y de los demas Fundamentos, como por su orden se fueren siguiendo.
