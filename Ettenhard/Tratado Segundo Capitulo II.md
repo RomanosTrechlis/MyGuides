@@ -15,7 +15,7 @@ Lo mismo se entiende, si ocupa la Linea (E) porque hace el mismo movimiento y se
 Si de qualquiera de estas dos Rectitudes buelve la Espada al Centro, se llama movimiento de Reduccion.
 {p. 22}
 
-Si retirare el braco, de fuerte quellegue la punta de la Espada al numero 3. hara movimiento estrano. 
+Si retirare el braco, de suerte quellegue la punta de la Espada al numero 3. hara movimiento estrano. 
 Y si la Espada desde el punto 3. buelve a su Centro (que es el Angulo Recto) el movimiento sera accidental, y quedara en la Rectitud de adelante.
 
 Si pusiere la Espada de fuerte(?) que este la guarnicion encima del ombro, ocupando la Linea(J)(?) se hallara en la Rectitud de atras: y se advierte, que el Punto (H) es el estremo de las Rectitudes altas: La (Y) el de las Rectitudes bajas: La (G) y la (F) los delos lados: La (J) el de atras: Y la (P) el de adelante, que es el Angulo Recto.
