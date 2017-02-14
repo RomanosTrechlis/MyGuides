@@ -2,7 +2,7 @@
 ### De la Divisio, y Graduacio de la Espada
 
 La presente Demonstracio, ensena la Graduacio de Fuerca que en la Espada se debe considerar; y para ello se pone dividida en diez partes iguales, a quien lamamos Grados, empecando desde la punta por el numero primero, hasta la guarnicion al numero diez, advirtiedo, que coforme se fuere aumentado los grados, asi se ira aumentado la fierca.
-La razo es clara, y natural, porque como el cuerpo es cetro de la fuerca, y este la comunica a la Espada, por medio del braco, es cierto que aquella parte, o grado que mas cercano estuviere a el, tendra mas fuerca, por estar mas proximo al orige, y que todo aquello que se fueren desviando, iran perdiendo la fortaleza, y valor: por lo qual el numero primero, es ei Grado de mas flaqueza (?), por ser tambien el que mas distante se halla del cuerpo.
+La razon es clara, y natural, porque como el cuerpo es cetro de la fuerca, y este la comunica a la Espada, por medio del braco, es cierto que aquella parte, o grado que mas cercano estuviere a el, tendra mas fuerca, por estar mas proximo al orige, y que todo aquello que se fueren desviando, iran perdiendo la fortaleza, y valor: por lo qual el numero primero, es ei Grado de mas flaqueza (?), por ser tambien el que mas distante se halla del cuerpo.
 
 ![figure](images/la_graduacion_dela_espada.png "La graduacion de la Espada")
 
