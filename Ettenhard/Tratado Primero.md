@@ -3,28 +3,28 @@
 
 La primera cosa que se nota en la Geometria, es el Punto, por ser de quien depende todo lo demas.
 Euclides le difine, diziendo: Punto es aquel, cuya parte es nunguna.
-Pero para que con mayor claridad nos expliquemos, digo: Que el {p. 2} Punto, es la mas delgada nota que se pudiere hacer, poniendo la pluma sebre el papel, y le muestra la letra (A) en la primera Demonstracion.
+Pero para que con mayor claridad nos expliquemos, digo: Que el {p. 2} Punto, es la mas delgada nota que se pudiere hacer, poniendo la pluma sebre el papel, y le muestra la letra (A) en la primera Demostracion.
 
 Siguese al Punto la Linea , la qual no tiene otra cosa que longitud, que es lo mismo que largura; y asihemos de considerar una muy sutil raya, compuesta de unos delgados puntos.
 De tres modos son las Lineas: unas se llaman Rectas, otras Curbas, y otras Mixtas.
 La Recta, es la breve extension de un punto a otro: Son Regulares porque siepre se tiran de un modo.
 Vese anotada en la siguiente Demostracion, donde senala la letra (B).
 La Curba, es la que en su viaje va torcida, de forma que no esta igualmente entre dos Puntos, y se demuestra con la letra (C).
-La Mixta se compone de la Recta, y de la Curba: Son Regulares, o irregulares como tambien la Curbas: en la figuiente Demonstracion se ensena con la letra (D).
+La Mixta se compone de la Recta, y de la Curba: Son Regulares, o irregulares como tambien la Curbas: en la figuiente Demostracion se ensena con la letra (D).
 
 De las Lineas se forman los Angulos, {p. 3} quando llegan dos a cocurrir en un Punto advirtiendo, que si se compone de Rectas, se llama por esta razon Rectilineo (E).
 Si de Curbas, Curbilineo (F). 
 Y se de una Linea Recta, y otra Curba, se llama Mixto (G).
-En la siguiente Demonstracion lo manifiestan las letras.
+En la siguiente Demostracion lo manifiestan las letras.
 
 Tres son las especies de Angulos que ay, Recto, Obtusi, y Agudo. 
 El Recto es, el que comprehende (en la capacidad que ay entre las dos Lineas) la quarta parte de la circunferencia, que puesto el compas en el punto del cocurso, se pudiere hacer (H).
 El Obtuso es, el que coge mas que la quarta parte (Y), y el Agudo es que coge menos (j).
 
-Los Angulos Obtusos, y los Agudos, no tienen Puntos determinados, por cuya causa pueden ser mas, o menos Obtusos, o mas o menos Agudos. Y asi, para poder darles los valores, y graduaciones, es necessario hacer una Demonstracion, que con facilidad {p. 4} de la inteligencia.
+Los Angulos Obtusos, y los Agudos, no tienen Puntos determinados, por cuya causa pueden ser mas, o menos Obtusos, o mas o menos Agudos. Y asi, para poder darles los valores, y graduaciones, es necessario hacer una Demostracion, que con facilidad {p. 4} de la inteligencia.
 Sea, pues, un circulo, el qual ha de estar dividido en trecientas y sesenta partes iguales, a quien llamaremos grados; y se reconocera, que al Angulo Recto, por no coger mas que la quarta parte de el, es preciso le toquen por Punto fixo noventa grados; porque si pasa un grado de los noveta, se mudara de la especie de Recto a la de Obtuso, por coger mas que la quarta parte: advirtiendo que todo lo que se fuere aumentando el numero, tanto se ira acrecentando el Angulo, teniendo tambien por cierto, que si baja un grado de los noventa, pasara a la especie de Agude: con la misma advertencia, de que quanto fueren declinando los Grados, tanto se ira minorando la capacidad al Angulo.
 Sacase que con esta prueba se puede dar medida, y valores a los Angulos, viendo la parte de circulo que cogen, y reconociendo los grados que en su capacidad se comprehenden.
-En la primera Demonstracion se anota con la letra (Z) {p. 5}.
+En la primera Demostracion se anota con la letra (Z) {p. 5}.
 
 La superficie se compone de Lineas.
 Tiene logitud, y latitud, que es lo mismo que largo, y ancho.

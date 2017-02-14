@@ -1,7 +1,7 @@
 ## CAPITULO IIII.
 ### De la Difinicion del Compas, y sus Especies.
 
-Compases un Movimiento que hace el cuerpo, quando dexa un lugar para ocupar otro: y para mayor claridad, es cierto que dar un Compas, es lo mismo que dar un paso: es genero, y tiene cinco especies simples, cuyos nombres son, Recto, Curbo, Transversal de Trepidacion, y Estraño: Otros dos ay Mixtos, que son el de Trepidacion, y Estraño, y el de Transversal, y Curbo; pero para su declaracion, y conocimiento, se necessita de la Demonstracion del Circulo que se imagina entre los dos Cobatietes: y hecho, se pue de co suma facilidad difinir cada especie de las referidas, y luego se tratara de los Mixtos de Transversal, y Curbo, y de {p. 51} Trepidacion, y Estraño, dando las noticias que poraora fueren convenientes, perp en primer lugar, es forcosa, y precisa la explicacion de la presente Figura, segun su deligneacion.
+Compases un Movimiento que hace el cuerpo, quando dexa un lugar para ocupar otro: y para mayor claridad, es cierto que dar un Compas, es lo mismo que dar un paso: es genero, y tiene cinco especies simples, cuyos nombres son, Recto, Curbo, Transversal de Trepidacion, y Estraño: Otros dos ay Mixtos, que son el de Trepidacion, y Estraño, y el de Transversal, y Curbo; pero para su declaracion, y conocimiento, se necessita de la Demostracion del Circulo que se imagina entre los dos Cobatietes: y hecho, se pue de co suma facilidad difinir cada especie de las referidas, y luego se tratara de los Mixtos de Transversal, y Curbo, y de {p. 51} Trepidacion, y Estraño, dando las noticias que poraora fueren convenientes, perp en primer lugar, es forcosa, y precisa la explicacion de la presente Figura, segun su deligneacion.
 
 	(A) Linea Recta, para el Copas Estraño.
 	(B) Lineas intermedias.
@@ -17,7 +17,7 @@ Compases un Movimiento que hace el cuerpo, quando dexa un lugar para ocupar otro
 
 {p. 55}
 
-El Compas Recto, es el que se dapor la Linea de el DIametro que atraviesa, y divide el Circulo en dos partes iguales, como se ve en la Demonstracion, donde senala la letra (F): Dale principio el pie derecho, y le figue el izquirdo.
+El Compas Recto, es el que se dapor la Linea de el DIametro que atraviesa, y divide el Circulo en dos partes iguales, como se ve en la Demostracion, donde senala la letra (F): Dale principio el pie derecho, y le figue el izquirdo.
 
 El Compas Curbo, se da por la Linea Curba, de qualquiera lado de la circunferecia que senala la letra (I).
 Pueden formar le ambos pies, cada uno por la parte que le tocare.
@@ -33,13 +33,13 @@ Y porque participa de las dos especies, se la da este nombre: puede empecarle qu
 
 El Compas Mixto de Trasversal, y Curbo, sirve (?) para hacer Movimiento de Conclusion, y solo se puede formar por el lado izquierdo del Actor.
 Empiecale el pie derecho, y tambien la acaba.
-Es Copas que pide Demonstracion aparte, para la facilidad de su inteligencia: y por ser cosa de mucha importancia su conocimiento, para el uso de la verdader Destreca, no me parece dexar de demonstrarle como se figue.
+Es Copas que pide Demostracion aparte, para la facilidad de su inteligencia: y por ser cosa de mucha importancia su conocimiento, para el uso de la verdader Destreca, no me parece dexar de demonstrarle como se figue.
 
 ![figure](images/capitulo_4_figure_2.png "Como se usa el Compas Mixto de Transversal, y Curbo")
 
 {p. 59}
 
-Confacilidad se compehende por medio de la Demonstracion presente el modo de la formacio del Compas Mixto de Tresversal, y Curbo, pues se ve que se empieca con el pie derecho, dando el Trensversal por la Linea Recta desde el Punto (A) al Punto (B) y afirmandose en el pasa el pie izquierdo, formando Compas Curbo por la circunferencia desde el Punto (R) al Punto (H) llegando a ocupar la Linea Infinita del contrario; y luego afirmandose en el acaba el derecho, formando tembien Copas Curbo, pasando desde el Punto (B) hasta el Punto (C) poniendole detras del izquierdo, en la misma Linea Infinita de el contrario: y conmosu composicion consta de las dos especies sinmples, se hace el Mixto, como queda significado.
+Confacilidad se compehende por medio de la Demostracion presente el modo de la formacio del Compas Mixto de Tresversal, y Curbo, pues se ve que se empieca con el pie derecho, dando el Trensversal por la Linea Recta desde el Punto (A) al Punto (B) y afirmandose en el pasa el pie izquierdo, formando Compas Curbo por la circunferencia desde el Punto (R) al Punto (H) llegando a ocupar la Linea Infinita del contrario; y luego afirmandose en el acaba el derecho, formando tembien Copas Curbo, pasando desde el Punto (B) hasta el Punto (C) poniendole detras del izquierdo, en la misma Linea Infinita de el contrario: y conmosu composicion consta de las dos especies sinmples, se hace el Mixto, como queda significado.
 
 El determinar cantidad fixa a los Compases, para obrar las proposiciones, lo tengo por cosa sumamente dificil (y aun imossible) por que como las distancias se proporcionan {p. 60}, acortando el Diestro su Compas, todo lo que el contrario huviere (?) alargado el suyo: y el formarle largo, o corto sea asi en el uno, como en el otro Acto voluntario, y no preciso, no se puede dar punto fixo a lo que no le puede dar de quatro, y de uno.
 Solo en un caso se pudiera coseguir, y es, si el uno de los Combatientes estuviera sin moverse de su lugar, que respeto de no aterar las distincias, se podian proponer cantidades fixas para el uso de los Copases.
