@@ -14,7 +14,7 @@ Y si el que traw la Espada corta, llega la punta a la guarnicion contraria, se l
 
 En el sin del Medio de Proporcion, tiene principio el Proporcionad, por ser preciso que dexe de ser el uno, para que empiece a ser el otro, y para venir mejor en su conocimiento, es necessario entender, que el Medio Proporcionado, es una distancia, que el Diestro determina, desde la qual puerde herir a su contrario, quedando el defendido: no es, ni puede ser uno solo, porque como se ofrecen deferentes disposiciones de herir, ne se pueden comprehender todas con solo uno: con que es preciso, que para qualquiera especie de Treta, aya de aver Medio Proporcionado difinito teniendo por cierto, que todas las vezes que se estuviere en puesto desde donde se pueda ofender, quedando defendido, se ha logrado el tenerle conveniente.
 
-Tres modos ay de conseguir este Medio, a quie llamamos, Propio, Apropiado, y Trasferido.
+Tres modos ay de conseguir este Medio, a quien llamamos, Propio, Apropiado, y Trasferido.
 El medio Proporcionado Propio, es el que el Diestro adquiere por si solo, qunado {p. 76} el contrario le espera.
 El Aproiado, es el que ofrece el contrario, quando consus Movimientos da disposicion de herir sin riesgo.
 Y el Trasferido, es el que el Diestro quita a su contrario, oponiendo le sus Compases, y Movimientos, de suerte que viene a tomar para si el Medio que el otro buscava.
