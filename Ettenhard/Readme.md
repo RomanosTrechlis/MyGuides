@@ -36,7 +36,7 @@
 (Translation | [Transcription](Tratado Tercero Capitulo III.md))
 
 **Chapter 4: Opposition of Techniques**
-(Translation | Transcription)
+(Translation | [Transcription](Tratado Tercero Capitulo IIII.md))
 
 **Chapter 5: Opposition of Footwork**
 (Translation | Transcription)
