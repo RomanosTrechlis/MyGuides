@@ -31,7 +31,7 @@ El Compas de Trepidacio se forma por {p. 56} las Lineas Rectas, que llamamos Inf
 El Compas Mixto de Trepidacion, y Estraño, se da por la Linea Recta Intermedia, que esta entre la Infinita, y la Recta, por dode se da el Estraño (B).
 Y porque participa de las dos especies, se la da este nombre: puede empecarle qualquiera de los dos pies.
 
-El Compas Mixto de Trasversal, y Curbo, sirve (?) para hacer Movimiento de Conclusion, y solo se puede formar por el lado izquierdo del Actor.
+El Compas Mixto de Transversal, y Curbo, sirve (?) para hacer Movimiento de Conclusion, y solo se puede formar por el lado izquierdo del Actor.
 Empiecale el pie derecho, y tambien la acaba.
 Es Compas que pide Demostracion aparte, para la facilidad de su inteligencia: y por ser cosa de mucha importancia su conocimiento, para el uso de la verdader Destreca, no me parece dexar de demonstrarle como se figue.
 
