@@ -39,10 +39,10 @@
 (Translation | [Transcription](Tratado Tercero Capitulo IIII.md))
 
 **Chapter 5: Opposition of Footwork**
-(Translation | Transcription)
+(Translation | [Transcription](Tratado Tercero Capitulo V.md))
 
 **Chapter 6: Opposition of Degrees of the Sword**
-(Translation | Transcription)
+(Translation | [Transcription](Tratado Tercero Capitulo VI.md))
 
 
 ### Fourth Treatise:
