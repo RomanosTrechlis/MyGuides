@@ -45,12 +45,10 @@
 (Translation | [Transcription](Tratado Tercero Capitulo VI.md))
 
 
-### Fourth Treatise:
+### Fourth Treatise
+(Translation | [Transcription](Tratado Quarto.md))
 
-**Chapter 1: About Proportionate Measure**
-(Translation | Transcription)
-
-**Chapter 2: About Atajo**
+**About Atajo**
 (Translation | Transcription)
 
 **Chapter 3: About Attacks**
