@@ -49,7 +49,7 @@
 (Translation | [Transcription](Tratado Quarto.md))
 
 **About Atajo**
-(Translation | Transcription)
+(Translation | [Transcription](Tratado Quarto Del Atajo.md))
 
 **Chapter 3: About Attacks**
 (Translation | Transcription)
