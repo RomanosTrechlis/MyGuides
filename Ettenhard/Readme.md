@@ -52,7 +52,7 @@
 (Translation | [Transcription](Tratado Quarto Del Atajo.md))
 
 **Chapter 3: About Attacks**
-(Translation | Transcription)
+(Translation | [Transcription](Tratado Quarto De Los Acometimientos.md))
 
 **Chapter 4: About the General Techniques**
 (Translation | Transcription) 
