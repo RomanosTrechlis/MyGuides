@@ -55,4 +55,4 @@
 (Translation | [Transcription](Tratado Quarto De Los Acometimientos.md))
 
 **Chapter 4: About the General Techniques**
-(Translation | Transcription) 
+(Translation | [Transcription](Tratado Quarto De Las Tretas Generales.md)) 
