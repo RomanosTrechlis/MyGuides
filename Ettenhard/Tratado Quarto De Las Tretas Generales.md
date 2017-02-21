@@ -52,7 +52,15 @@ En la segunda Clase, se debe poner la forma de herir en razon de Angulo Recto, c
 
 {p. 229}
 
+En tercero, y superior lugar, se debe poner la Disposicion de Atajo, a cuya potestad se somete la General Disposicion de herir de Estocada, en razon de Angulo Recto, pues por la superioridad de la Graduacion, Tocamento, y Movimiento Natural, es poderoso a corromper, y destruir sus formas con absoluto, y preeminente Dominio.
 
+En la quarta Clase, se debe considerar constituido el Unico, y Real Medio del Movimiento de Aumento Propio, y de Diminucion Apropiado, por la graduacion de la Espada, a cuyo relebante poder, el Atajo suspende sus rigurosos efectos, descaeciendo la fortaleza, y fuerca operante del Movimiento Natural, desminuiendo la mas numerosa graduacion, y quedando aniquilada la opinion de su singular poder.
+
+En la quinta Clase, y de mas superior dignidad que todas, se halla justamente puesta la superior accion del Movimiento de Conclusion, a cuya incomparable, y realcada {p. 230} potestad se desvanece todo; pues para su poderoso acierto, qualquiera disposicion es de ningun efecto, y para su ponderacion, solo dire (despues de lo que en diferentes ocasiones tengo dicho) que si possible fuera aver Universal en la parte practica de la Destreza, que solo a tal accion podia pertenecer; pues vemos que con igualodad ocasiona al contrario Universal privacion, y sugecion; y al Diestro Universal poder, y disposicion para obrar a su voluntad, sin interposicion de cosa que le pueda ser del mas minimo impodimiento.
+
+En esta confirmidad se han de observar las Graduaciones de las Disposiciones que asseguran el acierto de las Tretas, sabiendo, segun la que se eligiere, para la Batalla, las que le pueden ser Superiores, o Inferiores, que con este conocimiento se puede usar de los Medios Proporcionados, Apropiados, y Transferidos, midiendo, y propocionando los tiempos de sus formaciones {p. 231}, obrando concereca, y desengano.
+
+  
 
 
 
