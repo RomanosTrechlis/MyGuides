@@ -1,5 +1,7 @@
 # Continuity in the Nature of War & Change in the Character of Warfare (Notes)
 
+## Basic
+
 1. War is a contest of Wills
 1. Width, Depth, and Context
    * Width: over time
@@ -17,8 +19,6 @@
 ## Political Strategy
 
 Understand what is driving a conflict politically and develop a political strategy as the foundation of all other activities to be able to address those drivers of the conflict
-
-Joint power: combine branches of armed forces
 
 ## Transnational Terrorists
 
@@ -64,4 +64,33 @@ Joint power: combine branches of armed forces
 
 Cyberspace is analogous to other domains where you want to ensure your own freedom of movement and action in those domains (maritime, air, etc) and to restrict the enemy's movement and action.
 
+## Future force development emphasis
+
+1. Joint power: combine branches of armed forces
+1. Expeditionary maneuvers
+1. Leader development
+   * how a soldier connects what he is doing to a political outcome
+   * can you explain to your soldiers how the risks they're taking and the sucrifices they're making are contributing to an outcome worthy of those risks and sacrifices
+1. Clarity in the stratigic thinking and planing
+
+## Role of the Military
+
+1. Best military advice
+1. Not cross the line between:
+   * advice and
+   * advocacy of policy
+
+## Additional attributes to develop for soldiers
+
+Complicated environments where enemies intemingle with civilian population and environments of persistant danger.
+
+We need soldier preparation: 
+
+1. Moral
+1. Ethical
+1. Psychological
+
+In sort inculcate in our soldiers our values and our warrior ethos.
+
+Lawfare.
 
