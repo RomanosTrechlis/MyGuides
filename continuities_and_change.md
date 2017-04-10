@@ -31,7 +31,7 @@ Joint power: combine branches of armed forces
 ### Requirements
 
 1. build cappabilities
-1. be leggitimacy
+1. leggitimacy
 1. build the will to confront a brutal enemy
 
 ## Russia in Ukraine
@@ -51,16 +51,16 @@ Joint power: combine branches of armed forces
 
 ## What the enemy will try to do, to us, in the future
 
-1. evade our cappabilities (countermeasures)
-1. disrupt our cappabilities
-1. emulate our cappabilities (technology is the most transferable element of a differential advantage)
-1. expand into other battlegrounds (cyber, political infiltrarion, etc)
+1. **evade** our cappabilities (countermeasures)
+1. **disrupt** our cappabilities
+1. **emulate** our cappabilities (technology is the most transferable element of a differential advantage)
+1. **expand** into other battlegrounds (cyber, political infiltrarion, etc)
 
 ## Uses of Cyberspace
 
-1. defend our own networks and cappabilities
-1. understand our enemies and how they opperate (sources of strength and vulnerabilities)
-1. conduct offencive opperation to limit the enemy's ability to use it
+1. **defend** our own networks and cappabilities
+1. **understand** our enemies and how they opperate (sources of strength and vulnerabilities)
+1. conduct **offencive** opperation to limit the enemy's ability to use it
 
 Cyberspace is analogous to other domains where you want to ensure your own freedom of movement and action in those domains (maritime, air, etc) and to restrict the enemy's movement and action.
 
