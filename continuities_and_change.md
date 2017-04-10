@@ -7,7 +7,7 @@
    * Context: what we achieve politically in armed conflict, a society's will and how we generate and sustaine the will to confront increasingly determined and brutal adversaries
 1. Uncertain: because of its political and human dimentions
 1. Determined adverseries adapt constantly and evolve conflicts that you don't understand in the outset
-1. Thoukidides: reasons for war
+1. Thoucidides: reasons for war
    * Fear
    * Honor
    * Interest
