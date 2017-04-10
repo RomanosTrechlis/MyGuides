@@ -5,15 +5,19 @@ La primera cosa que se nota en la Geometria, es el Punto, por ser de quien depen
 Euclides le difine, diziendo: Punto es aquel, cuya parte es nunguna.
 Pero para que con mayor claridad nos expliquemos, digo: Que el {p. 2} Punto, es la mas delgada nota que se pudiere hacer, poniendo la pluma sebre el papel, y le muestra la letra (A) en la primera Demostracion.
 
-Siguese al Punto la Linea , la qual no tiene otra cosa que longitud, que es lo mismo que largura; y asihemos de considerar una muy sutil raya, compuesta de unos delgados puntos.
+Siguese al Punto la Linea , la qual no tiene otra cosa que longitud, que es lo mismo que largura. 
+Y asihemos de considerar una muy sutil raya, compuesta de unos delgados puntos.
 De tres modos son las Lineas: unas se llaman Rectas, otras Curbas, y otras Mixtas.
-La Recta, es la breve extension de un punto a otro: Son Regulares porque siepre se tiran de un modo.
+La Recta, es la breve extension de un punto a otro. 
+Son Regulares porque siempre se tiran de un modo.
 Vese anotada en la siguiente Demostracion, donde senala la letra (B).
-La Curba, es la que en su viaje va torcida, de forma que no esta igualmente entre dos Puntos, y se demuestra con la letra (C).
-La Mixta se compone de la Recta, y de la Curba: Son Regulares, o irregulares como tambien la Curbas: en la figuiente Demostracion se ensena con la letra (D).
+La Curva, es la que en su viaje va torcida, de forma que no esta igualmente entre dos Puntos, y se demuestra con la letra (C).
+La Mixta se compone de la Recta, y de la Curba. 
+Son Regulares, o irregulares como tambien la Curbas: en la siguiente Demostracion se ensena con la letra (D).
 
-De las Lineas se forman los Angulos, {p. 3} quando llegan dos a cocurrir en un Punto advirtiendo, que si se compone de Rectas, se llama por esta razon Rectilineo (E).
-Si de Curbas, Curbilineo (F). 
+De las Lineas se forman los Angulos, {p. 3} cuando llegan dos a concurrir en un Punto.
+Advirtiendo, que si se compone de Rectas, se llama por esta razon Rectilineo (E).
+Si de Curvas, Curvilineo (F). 
 Y se de una Linea Recta, y otra Curba, se llama Mixto (G).
 En la siguiente Demostracion lo manifiestan las letras.
 
