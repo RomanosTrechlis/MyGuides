@@ -5,20 +5,20 @@
 ***
 
 ### First Treatise: Geometric Principles
-(Translation | [Transcription](Tratado Primero.md))
+(Translation | [Transcription](Tratado%20Primero.md) )
 
 ### Second Treatise: Fundamental Principles
 **Chapter 1: Angles and the Swordsman**
-(Translation | [Transcription](Tratado Segundo Capitulo I.md)) 
+(Translation | [Transcription](Tratado%20Segundo%20Capitulo%20I.md)) 
 
 **Chapter 2: Movement**
-(Translation | [Transcription](Tratado Segundo Capitulo II.md))
+(Translation | [Transcription](Tratado%20Segundo%20Capitulo%20II.md))
 
 **Chapter 3: Offensive Techniques**
-(Translation | [Transcription](Tratado Segundo Capitulo III.md))
+(Translation | [Transcription](Tratado%20Segundo%20Capitulo%20III.md))
 
 **Chapter 4: Footwork**
-(Translation | [Transcription](Tratado Segundo Capitulo IIII.md))
+(Translation | [Transcription](Tratado%20Segundo Capitulo%20IIII.md))
 
 **Chapter 5: Graduation of the Sword**
 (Translation | [Transcription](Tratado Segundo Capitulo V.md))
