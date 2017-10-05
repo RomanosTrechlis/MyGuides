@@ -1,4 +1,4 @@
-## Chapter 1
+## Part I
 ### Of the Principles of Geometry necessary in Destreza, for the knowledge of the Demonstrations and comprehension of the Terms
 
 The first thing to note on the Geometry is the Point, from which everything depends.

@@ -18,41 +18,41 @@
 (Translation | [Transcription](Tratado%20Segundo%20Capitulo%20III.md))
 
 **Chapter 4: Footwork**
-(Translation | [Transcription](Tratado%20Segundo Capitulo%20IIII.md))
+(Translation | [Transcription](Tratado%20Segundo%20Capitulo%20IIII.md))
 
 **Chapter 5: Graduation of the Sword**
-(Translation | [Transcription](Tratado Segundo Capitulo V.md))
+(Translation | [Transcription](Tratado%20Segundo%20Capitulo%20V.md))
 
 ### Third Treatise: Oppositions
-(Translation | [Transcription](Tratado Tercero.md))
+(Translation | [Transcription](Tratado%20Tercero.md))
 
 **Chapter 1: Measure of Proportion**
-(Translation | [Transcription](Tratado Tercero Capitulo I.md))
+(Translation | [Transcription](Tratado%20Tercero%20Capitulo%20I.md))
 
 **Chapter 2: Opposition of Angles**
-(Translation | [Transcription](Tratado Tercero Capitulo II.md))
+(Translation | [Transcription](Tratado%20Tercero%20Capitulo%20II.md))
 
 **Chapter 3: Opposition of Movement**
-(Translation | [Transcription](Tratado Tercero Capitulo III.md))
+(Translation | [Transcription](Tratado%20Tercero%20Capitulo%20III.md))
 
 **Chapter 4: Opposition of Techniques**
-(Translation | [Transcription](Tratado Tercero Capitulo IIII.md))
+(Translation | [Transcription](Tratado%20Tercero%20Capitulo%20IIII.md))
 
 **Chapter 5: Opposition of Footwork**
-(Translation | [Transcription](Tratado Tercero Capitulo V.md))
+(Translation | [Transcription](Tratado%20Tercero%20Capitulo%20V.md))
 
 **Chapter 6: Opposition of Degrees of the Sword**
-(Translation | [Transcription](Tratado Tercero Capitulo VI.md))
+(Translation | [Transcription](Tratado%20Tercero%20Capitulo%20VI.md))
 
 
 ### Fourth Treatise
-(Translation | [Transcription](Tratado Quarto.md))
+(Translation | [Transcription](Tratado%20Quarto.md))
 
 **About Atajo**
-(Translation | [Transcription](Tratado Quarto Del Atajo.md))
+(Translation | [Transcription](Tratado%20Quarto%20Del%20Atajo.md))
 
 **Chapter 3: About Attacks**
-(Translation | [Transcription](Tratado Quarto De Los Acometimientos.md))
+(Translation | [Transcription](Tratado%20Quarto%20De%20Los%20Acometimientos.md))
 
 **Chapter 4: About the General Techniques**
-(Translation | [Transcription](Tratado Quarto De Las Tretas Generales.md)) 
+(Translation | [Transcription](Tratado%20Quarto%20De%20Las%20Tretas%20Generales.md)) 

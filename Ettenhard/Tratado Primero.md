@@ -1,5 +1,5 @@
 ## TRATADO PRIMERO
-### De los Principios de la Geometria, necessarios en Destreza, para el conocimiento de las Demostraciones, e inteligencia de los Terminos
+### De los Principios de la Geometria, necessarios en Destreza, para el conocimiento de las Demostraciones, e inteligencia de los Términos
 
 La primera cosa que se nota en la Geometria, es el Punto, por ser de quien depende todo lo demas.
 Euclides le difine, diziendo: Punto es aquel, cuya parte es nunguna.
