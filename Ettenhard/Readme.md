@@ -24,10 +24,10 @@
 (Translation | [Transcription](Tratado%20Segundo%20Capitulo%20V.md))
 
 ### Third Treatise: Oppositions
-(Translation | [Transcription](Tratado%20Tercero.md))
+([Translation](Part%20III.md) | [Transcription](Tratado%20Tercero.md))
 
 **Chapter 1: Measure of Proportion**
-(Translation | [Transcription](Tratado%20Tercero%20Capitulo%20I.md))
+([Translation](Part%20III%20Chapter%201.md) | [Transcription](Tratado%20Tercero%20Capitulo%20I.md))
 
 **Chapter 2: Opposition of Angles**
 (Translation | [Transcription](Tratado%20Tercero%20Capitulo%20II.md))

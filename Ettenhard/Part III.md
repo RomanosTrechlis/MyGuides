@@ -1,0 +1,7 @@
+## Part III
+### Of the Declaration of Counters and Opposition that is in the Species of the Principles that are defined and demonstrated.
+
+Having begun the declaration of the Universal Principles of this Science, it was necessary to give first notice of the position and safer plant where the Dexterous should be affirmed with his opponent, that because of the Right Angle, we constituted in him, so that he was making us participate in everything that is already defined and demonstrated. 
+As to this time it has not been necessary (to explain with demonstration) to consider the Dexterous with his opponent (for having touched only the execution of all) he has not been warned how to behave with him, to treat the propositions (TN: overtures).
+But this subject must be pursued, by adding to the knowledge of the desirable inequality which is experienced in the universal principles by the opposition which exists among its species, and for this  it is also necessary, that it will help to see who proposes (TN: initiates), and who opposes, one can not fail to affirm the Dexterous with his counter, nor to excuse the declaration of the Measured Proportion, for being the first thing to be done in order to initiate any question that is offered.
+That on the basis of all that, in order to make a choice of what is necessary, we shall proceed with the counters, showing what for the greater ease of his intelligence would be convenient.
