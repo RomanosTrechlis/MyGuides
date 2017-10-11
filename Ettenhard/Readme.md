@@ -30,7 +30,7 @@
 ([Translation](Part%20III%20Chapter%201.md) | [Transcription](Tratado%20Tercero%20Capitulo%20I.md))
 
 **Chapter 2: Opposition of Angles**
-(Translation | [Transcription](Tratado%20Tercero%20Capitulo%20II.md))
+([Translation](Part%20III%20Chapter%202.md) | [Transcription](Tratado%20Tercero%20Capitulo%20II.md))
 
 **Chapter 3: Opposition of Movement**
 (Translation | [Transcription](Tratado%20Tercero%20Capitulo%20III.md))
