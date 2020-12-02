@@ -19,7 +19,3 @@ There are three ways to achieve this Measure, whom we call, Proper, Appropriate,
 Considering our Master's realized that and said: That is called Measure of Proportion because it lacks all of us. Proportionate, because the movement that the Dexterous will do, must be with such measure that is neither on the superfluous, nor is lacking on what is necessary. 
 And to ponder his greatness he said more; that it is true that the one who comes to be constituted in the perfection, gets with this Science, for it is none other than the one offered by these means, assuring self-defense and attack the opponent.
 And so, place, and reconsider the Dexterous, in what to acquire knowledge of the importance of these means is warned, we will continue with the opposition if the Angles and of other Principles, as well as their order.
-
-
-TN:
-* Medio de Proporcion: average proportion
